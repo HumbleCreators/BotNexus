@@ -50,7 +50,7 @@ This project is licensed under the **Prosperity Public License 3.0.0**. You are 
 
 ## 📞 Contact Us
 For questions, support, or licensing inquiries, reach out to **HumbleCreators** at:
-- **Email:** c7ul6g@gmail.com
+- **Email:** humblecreators001@gmail.com
 - **Website:** [Coming Soon]  
 
 We look forward to helping your business grow with cutting-edge AI solutions! 🚀
