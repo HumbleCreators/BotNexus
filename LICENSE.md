@@ -6,7 +6,7 @@ Source Code: https://github.com/HumbleCreators/BotNexus
 
 ## Purpose
 
-This license allows you to use and share this software for noncommercial purposes for free and to try this software for commercial purposes for thirty days. After the thirty-day trial period, continued commercial use requires a paid license. Contact HumbleCreators at c7ul6g@gmail.com for licensing details.
+This license allows you to use and share this software for noncommercial purposes for free and to try this software for commercial purposes for thirty days. After the thirty-day trial period, continued commercial use requires a paid license. Contact HumbleCreators at c7ul6g@gmail.com for licensing details. Payment terms, pricing, and support details will be shared during the licensing process.
 
 ## Agreement
 
@@ -22,7 +22,7 @@ Limit your use of this software for commercial purposes to a thirty-day trial pe
 
 ## Contributions Back
 
-Developing feedback, changes, or additions that you contribute back to the contributor on the terms of a standardized public software license such as [the Blue Oak Model License 1.0.0](https://blueoakcouncil.org/license/1.0.0), [the Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.html), [the MIT license](https://spdx.org/licenses/MIT.html), or [the two-clause BSD license](https://spdx.org/licenses/BSD-2-Clause.html) doesn't count as use for a commercial purpose.
+Developing feedback, changes, or additions that you contribute back to the contributor on the terms of a standardized public software license such as [the Blue Oak Model License 1.0.0](https://blueoakcouncil.org/license/1.0.0), [the Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.html), [the MIT license](https://spdx.org/licenses/MIT.html), or [the two-clause BSD license](https://spdx.org/licenses/BSD-2-Clause.html) doesn't count as use for a commercial purpose. The contributor reserves the right to accept or reject these contributions.
 
 ## Personal Uses
 
