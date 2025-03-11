@@ -2,7 +2,7 @@
 
 Contributor: HumbleCreators
 
-Source Code: "https://github.com/HumbleCreators/BotNexus"
+Source Code: https://github.com/HumbleCreators/BotNexus
 
 ## Purpose
 
