@@ -54,4 +54,4 @@ You're excused for unknowingly breaking [Notices](#notices) if you take all prac
 
 ## No Liability
 
-***As far as the law allows, this software comes as is, without any warranty or condition, and the contributor won't be liable to anyone for any damages related to this software or this license, under any kind of legal claim.***
+***As far as the law allows, this software comes as is, without any warranty or condition. The contributor won't be liable for any damages related to this software or this license under any legal claim, including contract, tort, or negligence.***
