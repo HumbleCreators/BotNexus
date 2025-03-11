@@ -6,7 +6,7 @@ Source Code: "https://github.com/HumbleCreators/BotNexus"
 
 ## Purpose
 
-This license allows you to use and share this software for noncommercial purposes for free and to try this software for commercial purposes for thirty days.
+This license allows you to use and share this software for noncommercial purposes for free and to try this software for commercial purposes for thirty days. After the thirty-day trial period, continued commercial use requires a paid license. Contact HumbleCreators at c7ul6g@gmail.com for licensing details.
 
 ## Agreement
 
